@@ -1,0 +1,6 @@
+{
+  "name": "Cờ Tỷ Phú Việt Nam - Monopoly Multiplayer",
+  "description": "Trò chơi Cờ Tỷ Phú Việt Nam trực tuyến nhiều người chơi với bản đồ địa danh Việt Nam, quân cờ Roblox, mua bán nhà đất và đấu giá kịch tính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
